@@ -6,9 +6,23 @@
       "title": "Technical Content Engineer",
       "duration": "April 22 - July 22",
       "desc": [
-        "Create and manage the development of technical documents ",
-        "Identify, create and post developer topics, blogs, tips, tweets, etc.",
-        "Skills: React.js · Documentation · Docusaurus · JavaScript"
+        "Developed Product documentation on Docusaurus. ",
+        "Managed the development of content & technical documents to help developers get started",
+        "Identify, create and post developer topics, blogs, tips, tweets, etc. to drive engagement.",
+        "Identify, create and post developer topics, blogs, tips, tweets, etc. to drive engagement."
+      ]
+    },
+    {
+      "company": "Microsoft",
+      "link": "https://acehacker.com/microsoft/engage2022/",
+      "title": "Mentee - Intern Engage",
+      "duration": "May 22 - June 22",
+      "desc": [
+        "Selected for the Intern Engage program by Microsoft for engineering students across India.",
+        "Worked under the guidance of top mentors from Microsoft.",
+        "Built an Automatic Attendance System based on facial recognition",
+        "Technologies used - Python, OpenCV etc. ",
+        "Skills: OpenCV · Python (Programming Language) · Facial Recognition"
       ]
     },
     {
@@ -22,24 +36,43 @@
         "Worked directly under the Tech Team along with my two fellow developers.",
         "Skills: React.js · Documentation · Docusaurus · JavaScript · NodeJS · Firebase "
       ]
+    },
+    {
+      "company": "Chegg",
+      "link": "/",
+      "title": "Subject Matter Expert",
+      "duration": "May 20 - Apr 21",
+      "desc": [
+        "Experts answer Computer Science related questions (Java, C++, Javascript)",
+        "Solved over 100+ question and cleared doubts of students",
+        "Skills: JavaScript · Java · HTML5 · C++ · Cascading Style Sheets (CSS)"
+      ]
     }
   ],
   "projects": [
     {
-      "title": "Ecommerce",
-      "image": "./images/project_1.png",
-      "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
-      "skills": ["React", "Express", "MongoDB"],
-      "github": "/",
+      "title": "Lexical-Cli",
+      "image": "./images/lexical.png",
+      "desc": "Using Lexical CLI you can find the meaning of any word in your Cli itself. Lexical-Cli uses an open-source API to fetch the data, It is a react-ink-based project.",
+      "skills": ["React", "ReactInk", "Javascript", "CSS"],
+      "github": "https://github.com/sid-khuntwal/lexical-cli-hacktoberfest",
       "link": ""
     },
     {
-      "title": "Spotify",
-      "image": "./images/project_2.png",
-      "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
-      "skills": ["React", "Express", "MongoDB"],
-      "github": "/",
-      "link": "/"
+      "title": "Anime Search Engine",
+      "image": "./images/anime.jpg",
+      "desc": "An anime search engine built on Reactjs to search all kinds of anime (movies or series). It displays Top 10 trending animes and also shows the result od desired keyword.",
+      "skills": ["React", "CSS", "Javascript"],
+      "github": "https://github.com/sid-khuntwal/AnimeWorld",
+      "link": "https://animeeworld.netlify.app/"
+    },
+    {
+      "title": "Face Recognition Attendance System",
+      "image": "./images/face.jpg",
+      "desc": "A python-based student attendance system to mark students' attendance, demonstrating face recognition technology through python using OpenCV and other librarie",
+      "skills": ["Python", "OpenCV", "Face Recognition"],
+      "github": "https://github.com/sid-khuntwal/FaceReco_AttendaceSystem",
+      "link": ""
     }
   ]
 }

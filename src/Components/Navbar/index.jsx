@@ -19,7 +19,13 @@ function Navbar() {
         <a href="#contact" className={styles.nav_link}>
           <span>04.</span>Contact
         </a>
-        <button className={styles.nav_resume_btn}>Resume</button>
+        <a
+          href="https://drive.google.com/file/d/1IXUZvafYl3Mpvu3RuwoPNOxs_nqrouAh/view?usp=sharing"
+          target="_blank"
+          rel="noreferrer"
+        >
+          <button className={styles.nav_resume_btn}>Resume</button>
+        </a>
       </div>
     </nav>
   );
